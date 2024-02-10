@@ -1,0 +1,14 @@
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.exe
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.deps.json
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.runtimeconfig.json
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.dll
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.pdb
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.dll
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\refint\Arithmetic.dll
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.pdb
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\Arithmetic\Arithmetic\obj\Debug\net8.0\ref\Arithmetic.dll
